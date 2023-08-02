@@ -1,0 +1,4 @@
+# package       version     strict?     overrides?
+pygame       2.3.0       True        pygame-ce
+black           23.7.0      False       None
+pygame-gui      ...         False       None
